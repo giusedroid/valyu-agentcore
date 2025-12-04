@@ -1,8 +1,8 @@
 # valyu-agentcore
 
-Add web and domain-specific search capabilities to [AWS Bedrock AgentCore](https://docs.aws.amazon.com/bedrock/latest/userguide/agentcore.html) and [Strands Agents](https://strandsagents.com).
+**Valyu search tools for AWS Bedrock AgentCore and Strands Agents.**
 
-Includes web search, SEC filings, financial data, academic papers, patents, biomedical data, and company research.
+Add web search, SEC filings, financial data, academic papers, patents, and biomedical research to your [AWS Bedrock AgentCore](https://docs.aws.amazon.com/bedrock/latest/userguide/agentcore.html) and [Strands](https://strandsagents.com) agents.
 
 Valyu is the [leading search API for AI agents](https://www.valyu.ai/blogs/benchmarking-search-apis-for-ai-agents).
 
